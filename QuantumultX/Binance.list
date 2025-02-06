@@ -1,4 +1,4 @@
-# Binance - 2024.06.06
+## Binance - 2025.01.27
 
 host, www.binance.com, Binance
 host, api.binance.com, Binance
@@ -9,23 +9,29 @@ host, stream.binance.com, Binance
 host, dstream.binance.com, Binance
 host, fstream.binance.com, Binance
 host, nbstream.binance.com, Binance
+host, sfstream.binance.com, Binance
 host, themis.binance.com, Binance
+host, www.binance.click, Binance
 host, api.saasexch.cc, Binance
+host, api.saasexch.co, Binance
 host, api.saasexch.io, Binance
+host, api.saasexch.com, Binance
 host, report.binance.im, Binance
 host, www.binance.info, Binance
 host, accounts.binance.info, Binance
+host, accounts.binance.me, Binance
 host, edge-api.saasexch.com, Binance
 host, stream.binance.info, Binance
 host, fstream.binance.info, Binance
 host, dstream.binance.info, Binance
 host, nbstream.binance.info, Binance
-host, fstream.binance.info, Binance
 host, native.binance.info, Binance
 host, log.bntrace.com, Binance
-host, public.bnbstatic.com, Binance
+host, public.nftstatic.com, Binance
 host, bin.bnbstatic.com, Binance
+host, public.bnbstatic.com, Binance
 host, www.binancecnt.com, Binance
+host, reslove.saasexch.com, Binance
 host, www.yingwangtech.cloud, Binance
 host, sdstream.yingwangtech.net, Binance
 host, nbstream.yingwangtech.net, Binance
@@ -36,9 +42,19 @@ host, www.yingwangtech.net, Binance
 host, www.yingwangtech.mobi, Binance
 host, www.yingwangtech.club, Binance
 host, www.yingwangtech.cc, Binance
+
+# Related Domains
+host, m.api.forter.com, Binance
+host, addfd325e6e3.cdn4.forter.com, Binance
+host, crt.r2m01.amazontrust.com, Binance
+host, crt.rootca1.amazontrust.com, Binance
+host, crt.rootg2.amazontrust.com, Binance
 host, d3sknckuh1o9tg.cloudfront.net, Binance
+host, public-1306379396.file.myqcloud.com, Binance
+host, static-file-1306379396.file.myqcloud.com, Binance
 host, domain-config-1306379396.file.myqcloud.com, Binance
 host, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com, Binance
+host, bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com, Binance
 host, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com, Binance
 
 host-suffix, appsflayer.com, Binance
@@ -49,6 +65,7 @@ host-suffix, binance.co, Binance
 host-suffix, binance.com, Binance
 host-suffix, binance.info, Binance
 host-suffix, binance.me, Binance
+host-suffix, binance.im, Binance
 host-suffix, binance.net, Binance
 host-suffix, binance.org, Binance
 host-suffix, binance.us, Binance
@@ -75,6 +92,7 @@ host-suffix, bnbzh.ac, Binance
 host-suffix, bntrace.com, Binance
 host-suffix, binancecnt.com, Binance
 host-suffix, saasexch.cc, Binance
+host-suffix, saasexch.co, Binance
 host-suffix, saasexch.io, Binance
 host-suffix, saasexch.com, Binance
 host-suffix, yingwangtech.cloud, Binance
