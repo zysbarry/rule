@@ -24,6 +24,10 @@ DOMAIN-SUFFIX,oklink.com,DIRECT #欧易
 DOMAIN-SUFFIX,okx.com,DIRECT #欧易
 DOMAIN-SUFFIX,gate.io,DIRECT #芝麻开门
 DOMAIN-SUFFIX,gateio.services,DIRECT #芝麻开门
+DOMAIN-SUFFIX,gateimg.com,DIRECT #芝麻开门
+DOMAIN-SUFFIX,gatedataimg.com,DIRECT #芝麻开门
+DOMAIN-SUFFIX,gateweb3.cc,DIRECT #芝麻开门
+DOMAIN-SUFFIX,zhaqby.com,DIRECT #芝麻开门
 DOMAIN-KEYWORD,bybit,TW #bybit交易所
 DOMAIN,bybit-exchange.github.io,TW       #bybit交易所
 DOMAIN,bybit.ada.support,TW     #bybit交易所
