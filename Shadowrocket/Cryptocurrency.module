@@ -1,5 +1,8 @@
 #2025.02.05自用规则，交易所
+#!name=Cryptocurrency
+#!homepage=
 
+[Rule]
 DOMAIN-SUFFIX,appsflayer.com,DIRECT #币安
 DOMAIN-SUFFIX,binance.cloud,DIRECT #币安
 DOMAIN-SUFFIX,binance.com,DIRECT #币安
