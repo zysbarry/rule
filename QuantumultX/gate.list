@@ -1,7 +1,10 @@
+# NAME: gate
+# AUTHOR: zysbarry
 
-DOMAIN-SUFFIX,gate.io,DIRECT #芝麻开门
-DOMAIN-SUFFIX,gateio.services,DIRECT #芝麻开门
-DOMAIN-SUFFIX,gateimg.com,DIRECT #芝麻开门
-DOMAIN-SUFFIX,gatedataimg.com,DIRECT #芝麻开门
-DOMAIN-SUFFIX,gateweb3.cc,DIRECT #芝麻开门
-DOMAIN-SUFFIX,zhaqby.com,DIRECT #芝麻开门
+# UPDATED: 2025-02-13
+HOST-SUFFIX,gate.io,gate #芝麻开门
+HOST-SUFFIX,gateio.services,gate #芝麻开门
+HOST-SUFFIX,gateimg.com,gate #芝麻开门
+HOST-SUFFIX,gatedataimg.com,gate #芝麻开门
+HOST-SUFFIX,gateweb3.cc,gate #芝麻开门
+HOST-SUFFIX,zhaqby.com,gate #芝麻开门
