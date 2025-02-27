@@ -42,10 +42,7 @@ host, www.yingwangtech.net, Binance
 host, www.yingwangtech.mobi, Binance
 host, www.yingwangtech.club, Binance
 host, www.yingwangtech.cc, Binance
-host, www.mokexapp.io, Binance
-host, www.mokexapp.net, Binance
-host, www.mokexapp.me, Binance
-host, fstream.mokexapp.io, Binance
+
 
 # Related Domains
 host, m.api.forter.com, Binance
@@ -60,6 +57,12 @@ host, domain-config-1306379396.file.myqcloud.com, Binance
 host, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com, Binance
 host, bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com, Binance
 host, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com, Binance
+host, www.mokexapp.io, Binance
+host, www.mokexapp.net, Binance
+host, www.mokexapp.me, Binance
+host, fstream.mokexapp.io, Binance
+host, accounts.binance-electron.com, Binance
+host, bnappweb.biz, Binance
 
 host-suffix, appsflayer.com, Binance
 host-suffix, binance.cc, Binance
@@ -107,7 +110,7 @@ host-suffix, yingwangtech.cc, Binance
 host-suffix, mokexapp.io, Binance
 host-suffix, mokexapp.net, Binance
 host-suffix, mokexapp.me, Binance
-
+host-suffix, jakowy.com, Binance
 
 ip-cidr, 47.107.98.27/32, Binance
 ip-cidr, 47.107.127.135/32, Binance
