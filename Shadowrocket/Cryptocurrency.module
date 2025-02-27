@@ -1,10 +1,8 @@
 #2025.02.05自用规则，交易所
 #!name=Cryptocurrency
 
-
 [Rule]
 ## Binance - 2025.01.27
-
 DOMAIN, www.binance.com, DIRECT #币安
 DOMAIN, api.binance.com, DIRECT #币安
 DOMAIN, fapibak.binance.com ,DIRECT #币安
@@ -49,6 +47,10 @@ DOMAIN, www.yingwangtech.club, DIRECT #币安
 DOMAIN, www.yingwangtech.cc, DIRECT #币安
 # Related Domains
 DOMAIN, m.api.forter.com, DIRECT #币安
+DOMAIN,www.mokexapp.me, DIRECT
+DOMAIN,www.mokexapp.net, DIRECT
+DOMAIN,www.mokexapp.net, DIRECT
+DOMAIN,native.mokexapp.net, DIRECT
 DOMAIN, addfd325e6e3.cdn4.forter.com, DIRECT #币安
 DOMAIN, crt.r2m01.amazontrust.com, DIRECT #币安
 DOMAIN, crt.rootca1.amazontrust.com, DIRECT #币安
@@ -136,3 +138,16 @@ DOMAIN-SUFFIX,bybit.biz,DIRECT       #bybit交易所
 DOMAIN-SUFFIX,bybdc6.com,DIRECT     #bybit交易所
 DOMAIN-SUFFIX,bybit-global.com,DIRECT   #bybit交易所
 DOMAIN-SUFFIX,bybit.cloud,DIRECT        #bybit交易所
+
+# Bitget
+DOMAIN-SUFFIX,gdrichem.com,DIRECT
+DOMAIN-SUFFIX,bitget.com,DIRECT
+DOMAIN-SUFFIX,bgportable.com,DIRECT
+DOMAIN-SUFFIX,api.engagelab.cc,DIRECT
+DOMAIN-SUFFIX,bitgetimg.com,DIRECT
+DOMAIN,appapi.gm816.com,DIRECT
+DOMAIN-SUFFIX,bitgetimg.com,DIRECT
+DOMAIN-SUFFIX,bitgetapp.com,DIRECT
+DOMAIN-SUFFIX,bitgetimg.com,DIRECT
+DOMAIN,img.gurenla.com,DIRECT
+DOMAIN-SUFFIX,beeeye.xyz,DIRECT
