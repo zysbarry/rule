@@ -62,7 +62,7 @@ host, www.mokexapp.net, Binance
 host, www.mokexapp.me, Binance
 host, fstream.mokexapp.io, Binance
 host, accounts.binance-electron.com, Binance
-host, bnappweb.biz, Binance
+host, www.bnappweb.biz, Binance
 
 host-suffix, appsflayer.com, Binance
 host-suffix, binance.cc, Binance
