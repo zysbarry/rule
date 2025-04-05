@@ -1,0 +1,153 @@
+#2025.02.05自用规则，交易所
+#!name=Cryptocurrency
+
+[Rule]
+## Binance - 2025.01.27
+DOMAIN, www.binance.com,DIRECT #币安
+DOMAIN, api.binance.com,DIRECT #币安
+DOMAIN, fapibak.binance.com,DIRECT #币安
+DOMAIN, accounts.binance.com,DIRECT #币安
+DOMAIN, native.binance.com,DIRECT #币安
+DOMAIN, stream.binance.com,DIRECT #币安
+DOMAIN, dstream.binance.com,DIRECT #币安
+DOMAIN, fstream.binance.com,DIRECT #币安
+DOMAIN, nbstream.binance.com,DIRECT #币安
+DOMAIN, sfstream.binance.com,DIRECT #币安
+DOMAIN, themis.binance.com,DIRECT #币安
+DOMAIN, www.binance.click,DIRECT #币安
+DOMAIN, api.saasexch.cc,DIRECT #币安
+DOMAIN, api.saasexch.co,DIRECT #币安
+DOMAIN, api.saasexch.io,DIRECT #币安
+DOMAIN, api.saasexch.com,DIRECT #币安
+DOMAIN, report.binance.im,DIRECT #币安
+DOMAIN, www.binance.info,DIRECT #币安
+DOMAIN, accounts.binance.info,DIRECT #币安
+DOMAIN, accounts.binance.me,DIRECT #币安
+DOMAIN, edge-api.saasexch.com,DIRECT #币安
+DOMAIN, stream.binance.info,DIRECT #币安
+DOMAIN, fstream.binance.info,DIRECT #币安
+DOMAIN, dstream.binance.info,DIRECT #币安
+DOMAIN, nbstream.binance.info,DIRECT #币安
+DOMAIN, native.binance.info,DIRECT #币安
+DOMAIN, log.bntrace.com,DIRECT #币安
+DOMAIN, public.nftstatic.com,DIRECT #币安
+DOMAIN, bin.bnbstatic.com,DIRECT #币安
+DOMAIN, public.bnbstatic.com,DIRECT #币安
+DOMAIN, www.binancecnt.com,DIRECT #币安
+DOMAIN, reslove.saasexch.com DIRECT #币安
+DOMAIN, www.yingwangtech.cloud,DIRECT #币安
+DOMAIN, sdstream.yingwangtech.net,DIRECT #币安
+DOMAIN, nbstream.yingwangtech.net,DIRECT #币安
+DOMAIN, stream.yingwangtech.net,DIRECT #币安
+DOMAIN, sfstream.yingwangtech.net,DIRECT #币安
+DOMAIN, fstream.yingwangtech.net,DIRECT #币安
+DOMAIN, www.yingwangtech.net,DIRECT #币安
+DOMAIN, www.yingwangtech.mobi,DIRECT #币安
+DOMAIN, www.yingwangtech.club,DIRECT #币安
+DOMAIN, www.yingwangtech.cc,DIRECT #币安
+# Related Domains
+DOMAIN, m.api.forter.com,DIRECT #币安
+DOMAIN,www.mokexapp.me,DIRECT
+DOMAIN,www.mokexapp.net,DIRECT
+DOMAIN,www.mokexapp.net,DIRECT
+DOMAIN,native.mokexapp.net,DIRECT
+DOMAIN, addfd325e6e3.cdn4.forter.com,DIRECT #币安
+DOMAIN, crt.r2m01.amazontrust.com,DIRECT #币安
+DOMAIN, crt.rootca1.amazontrust.com,DIRECT #币安
+DOMAIN, crt.rootg2.amazontrust.com,DIRECT #币安
+DOMAIN, d3sknckuh1o9tg.cloudfront.net,DIRECT #币安
+DOMAIN, public-1306379396.file.myqcloud.com,DIRECT #币安
+DOMAIN, static-file-1306379396.file.myqcloud.com,DIRECT #币安
+DOMAIN, domain-config-1306379396.file.myqcloud.com,DIRECT #币安
+DOMAIN, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com,DIRECT #币安
+DOMAIN, bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com,DIRECT #币安
+DOMAIN, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com,DIRECT #币安
+DOMAIN-SUFFIX,appsflayer.com,DIRECT #币安
+DOMAIN-SUFFIX,binance.cc,DIRECT #币安
+DOMAIN-SUFFIX,binance.charity,DIRECT #币安
+DOMAIN-SUFFIX,binance.cloud,DIRECT #币安
+DOMAIN-SUFFIX,binance.co,DIRECT #币安
+DOMAIN-SUFFIX,binance.com,DIRECT #币安
+DOMAIN-SUFFIX,binance.info,DIRECT #币安
+DOMAIN-SUFFIX,binance.me,DIRECT #币安
+DOMAIN-SUFFIX,binance.im,DIRECT #币安
+DOMAIN-SUFFIX,binance.net,DIRECT #币安
+DOMAIN-SUFFIX,binance.org,DIRECT #币安
+DOMAIN-SUFFIX,binance.us,DIRECT #币安
+DOMAIN-SUFFIX,binance.vision,DIRECT #币安
+DOMAIN-SUFFIX,binanceapi.com,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.be,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.biz,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.cc,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.co,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.com,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.info,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.ink,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.kim,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.link,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.live,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.mobi,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.net,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.pro,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.sh,DIRECT #币安
+DOMAIN-SUFFIX,binancezh.top,DIRECT #币安
+DOMAIN-SUFFIX,bnappzh.co,DIRECT #币安
+DOMAIN-SUFFIX,bnbstatic.com,DIRECT #币安
+DOMAIN-SUFFIX,bnbzh.ac,DIRECT #币安
+DOMAIN-SUFFIX,bntrace.com,DIRECT #币安
+DOMAIN-SUFFIX,binancecnt.com,DIRECT #币安
+DOMAIN-SUFFIX,saasexch.cc,DIRECT #币安
+DOMAIN-SUFFIX,saasexch.co,DIRECT #币安
+DOMAIN-SUFFIX,saasexch.io,DIRECT #币安
+DOMAIN-SUFFIX,saasexch.com,DIRECT #币安
+DOMAIN-SUFFIX,yingwangtech.cloud,DIRECT #币安
+DOMAIN-SUFFIX,yingwangtech.net,DIRECT #币安
+DOMAIN-SUFFIX,yingwangtech.mobi,DIRECT #币安
+DOMAIN-SUFFIX,yingwangtech.club,DIRECT #币安
+DOMAIN-SUFFIX,yingwangtech.cc,DIRECT #币安
+ip-cidr, 47.107.98.27/32,DIRECT #币安
+ip-cidr, 47.107.127.135/32,DIRECT #币安
+ip-cidr, 52.68.117.1/32,DIRECT #币安
+ip-cidr, 35.77.148.188/32,DIRECT #币安
+ip-cidr, 54.150.106.1/32,DIRECT #币安
+ip-cidr, 13.248.135.87/32,DIRECT #币安
+ip-cidr, 47.107.32.31/32,DIRECT #币安
+
+DOMAIN-SUFFIX,okex.com,DIRECT #欧易
+DOMAIN-SUFFIX,oklink.com,DIRECT #欧易
+DOMAIN-SUFFIX,okx.com,DIRECT #欧易
+DOMAIN-SUFFIX,gate.io,DIRECT #芝麻开门
+DOMAIN-SUFFIX,gateio.services,DIRECT #芝麻开门
+DOMAIN-SUFFIX,gateimg.com,DIRECT #芝麻开门
+DOMAIN-SUFFIX,gatedataimg.com,DIRECT #芝麻开门
+DOMAIN-SUFFIX,gateweb3.cc,DIRECT #芝麻开门
+DOMAIN-SUFFIX,zhaqby.com,DIRECT #芝麻开门
+DOMAIN-KEYWORD,bybit,DIRECT #bybit交易所
+DOMAIN,bybit-exchange.github.io,DIRECT       #bybit交易所
+DOMAIN,bybit.ada.support,DIRECT      #bybit交易所
+DOMAIN-SUFFIX,bybit.com,DIRECT       #bybit交易所
+DOMAIN-SUFFIX,bycsi.com,DIRECT       #bybit交易所
+DOMAIN-SUFFIX,bytick.com,DIRECT      #bybit交易所
+DOMAIN-SUFFIX,byapis.com,DIRECT      #bybit交易所
+DOMAIN-SUFFIX,bycbe.com,DIRECT       #bybit交易所
+DOMAIN-SUFFIX,bymj.io,DIRECT         #bybit交易所
+DOMAIN-SUFFIX,byabcde.com,DIRECT     #bybit交易所
+DOMAIN-SUFFIX,byapps.net,DIRECT      #bybit交易所
+DOMAIN-SUFFIX,byd3c3.com,DIRECT      #bybit交易所
+DOMAIN-SUFFIX,bybit.biz,DIRECT       #bybit交易所
+DOMAIN-SUFFIX,bybdc6.com,DIRECT     #bybit交易所
+DOMAIN-SUFFIX,bybit-global.com,DIRECT   #bybit交易所
+DOMAIN-SUFFIX,bybit.cloud,DIRECT        #bybit交易所
+
+# Bitget
+DOMAIN-SUFFIX,gdrichem.com,DIRECT
+DOMAIN-SUFFIX,bitget.com,DIRECT
+DOMAIN-SUFFIX,bgportable.com,DIRECT
+DOMAIN-SUFFIX,api.engagelab.cc,DIRECT
+DOMAIN-SUFFIX,bitgetimg.com,DIRECT
+DOMAIN,appapi.gm816.com,DIRECT
+DOMAIN-SUFFIX,bitgetimg.com,DIRECT
+DOMAIN-SUFFIX,bitgetapp.com,DIRECT
+DOMAIN-SUFFIX,bitgetimg.com,DIRECT
+DOMAIN,img.gurenla.com,DIRECT
+DOMAIN-SUFFIX,beeeye.xyz,DIRECT
