@@ -1,9 +1,10 @@
 #2025.07.01自用规则，交易所
 #!name=kraken
 [Rule]
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,zendesk.com
 
 DOMAIN,kraken.com
-DOMAIN-SUFFIX,kraken.com
 DOMAIN,api.kraken.com
 DOMAIN,ws.kraken.com
 DOMAIN,ws-auth.kraken.com
