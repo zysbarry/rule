@@ -1,1 +1,126 @@
+Binance Loon 分流规则2026.10.07
+# =========================================================
+# Binance Loon Rule
+# Based on StricklandF/Filter Binance.list
+# Optimized for Loon
+# =========================================================
+
+
+# =========================
+# 1. Binance 官方主域名
+# =========================
+
+DOMAIN-SUFFIX,binance.com,Proxy
+DOMAIN-SUFFIX,binance.info,Proxy
+DOMAIN-SUFFIX,binance.me,Proxy
+DOMAIN-SUFFIX,binance.net,Proxy
+DOMAIN-SUFFIX,binance.org,Proxy
+DOMAIN-SUFFIX,binance.co,Proxy
+DOMAIN-SUFFIX,binance.cc,Proxy
+DOMAIN-SUFFIX,binance.im,Proxy
+DOMAIN-SUFFIX,binance.us,Proxy
+
+# Binance 公共行情 / Market Data
+DOMAIN-SUFFIX,binance.vision,Proxy
+
+# Binance API 相关
+DOMAIN-SUFFIX,binanceapi.com,Proxy
+DOMAIN-SUFFIX,binancecnt.com,Proxy
+
+
+# =========================
+# 2. Binance CDN / 静态资源
+# =========================
+
+#  Binance CDN
+DOMAIN-SUFFIX,bscdnweb.com,Proxy
+
+# Binance 静态资源
+DOMAIN-SUFFIX,bnbstatic.com,Proxy
+
+# Binance NFT 静态资源
+DOMAIN-SUFFIX,nftstatic.com,Proxy
+
+
+# =========================
+# 3. Binance 鉴权 / 服务 / 第三方业务域名
+# =========================
+
+# Binance 实际规则中使用
+DOMAIN-SUFFIX,saasexch.com,Proxy
+DOMAIN-SUFFIX,saasexch.cc,Proxy
+DOMAIN-SUFFIX,saasexch.co,Proxy
+DOMAIN-SUFFIX,saasexch.io,Proxy
+
+# Binance 相关服务域名
+DOMAIN-SUFFIX,yingwangtech.cloud,Proxy
+DOMAIN-SUFFIX,yingwangtech.net,Proxy
+DOMAIN-SUFFIX,yingwangtech.mobi,Proxy
+DOMAIN-SUFFIX,yingwangtech.club,Proxy
+DOMAIN-SUFFIX,yingwangtech.cc,Proxy
+
+
+# =========================
+# 4. Binance 中国区 / 历史兼容域名
+# =========================
+
+DOMAIN-SUFFIX,binancezh.be,Proxy
+DOMAIN-SUFFIX,binancezh.biz,Proxy
+DOMAIN-SUFFIX,binancezh.cc,Proxy
+DOMAIN-SUFFIX,binancezh.co,Proxy
+DOMAIN-SUFFIX,binancezh.com,Proxy
+DOMAIN-SUFFIX,binancezh.info,Proxy
+DOMAIN-SUFFIX,binancezh.ink,Proxy
+DOMAIN-SUFFIX,binancezh.kim,Proxy
+DOMAIN-SUFFIX,binancezh.link,Proxy
+DOMAIN-SUFFIX,binancezh.live,Proxy
+DOMAIN-SUFFIX,binancezh.mobi,Proxy
+DOMAIN-SUFFIX,binancezh.net,Proxy
+DOMAIN-SUFFIX,binancezh.pro,Proxy
+DOMAIN-SUFFIX,binancezh.sh,Proxy
+DOMAIN-SUFFIX,binancezh.top,Proxy
+
+# 其他历史相关域名
+DOMAIN-SUFFIX,bnappzh.co,Proxy
+DOMAIN-SUFFIX,bnbzh.ac,Proxy
+
+
+# =========================
+# 5. Binance 第三方服务
+# =========================
+
+# Binance App / 风控 / 统计相关
+DOMAIN-SUFFIX,appsflayer.com,Proxy
+
+# Forter 风控
+DOMAIN, m.api.forter.com,Proxy
+DOMAIN, addfd325e6e3.cdn4.forter.com,Proxy
+DOMAIN, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com,Proxy
+
+# Binance 使用的 CloudFront 节点
+DOMAIN,d3sknckuh1o9tg.cloudfront.net,Proxy
+
+# Binance 使用的腾讯云文件节点
+DOMAIN,public-1306379396.file.myqcloud.com,Proxy
+DOMAIN,static-file-1306379396.file.myqcloud.com,Proxy
+DOMAIN,domain-config-1306379396.file.myqcloud.com,Proxy
+
+# Binance WebSocket 使用的 AWS ELB
+DOMAIN,bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com,Proxy
+DOMAIN,aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com,Proxy
+
+
+# =========================
+# 6. Binance 追踪 / 日志
+# =========================
+
+DOMAIN-SUFFIX,bntrace.com,Proxy
+
+
+# =========================
+# 7. Binance App
+# =========================
+
+USER-AGENT,Binance*,Proxy
+```
 
